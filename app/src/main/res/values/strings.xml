@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TwoScreenApp</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="submit">Submit</string>
+    <string name="email">Email:</string>
+    <string name="name">Name:</string>
+    <string name="go_back">Go Back</string>
+</resources>
